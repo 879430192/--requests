@@ -1,0 +1,12 @@
+Scrapy
+
+
+      bench         Run quick benchmark test    //测试
+      fetch         Fetch a URL using the Scrapy downloader     //查看响应
+      genspider     Generate new spider using pre-defined templates    //创建爬虫
+      runspider     Run a self-contained spider (without creating a project)     //启动爬虫文件
+      settings      Get settings values      //设置
+      shell         Interactive scraping console     //命令行
+      startproject  Create new project          //创建项目
+      version       Print Scrapy version      //版本
+      view          Open URL in browser, as seen by Scrapy
